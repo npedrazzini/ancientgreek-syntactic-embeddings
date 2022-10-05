@@ -1,0 +1,11 @@
+useful_files/
+useful_scripts/
+TREEBANKS/
+TOROT/
+DIORISIS/
+architectures/
+outputs/
+notes.md
+.DS_Store
+poetry.lock
+.venv
